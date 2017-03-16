@@ -1,0 +1,15 @@
+{
+  "name": "sken-server-class",
+  "version": "1.0.0",
+  "description": "sken base class for server side applications",
+  "main": "index.js",
+  "author": "Yann AMSELLEM <yann_ams@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "lodash": "^4.17.4"
+  },
+  "peerDependencies": {
+    "express": "^4.15.2"
+  }
+}
